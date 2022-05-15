@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            {
+                "text": "Visual Banner Patterns",
+                "color": "gold"
+            },
+            "\n",
+			{
+                "text": "faithfulpack.net/addons/",
+                "color": "white"
+            }
+
+        ]
+    }
+}
